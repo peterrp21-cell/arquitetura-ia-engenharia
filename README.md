@@ -16,8 +16,8 @@ Essa estrutura em volta da IA é o **harness**: o seu padrão escrito, o que a I
 ## Próximos materiais
 | Data | Material |
 |---|---|
-| 01/12/2026 | Padrão de um escritório de instalações, já preenchido no esqueleto |
-| 08/12/2026 | Quem decide o quê num projeto de instalações, com exemplos |
+| 08/12/2026 | Padrão de um escritório de instalações, já preenchido no esqueleto |
+| 15/12/2026 | Quem decide o quê num projeto de instalações, com exemplos |
 
 ## O que estamos construindo (em público)
 Este repositório é a construção aberta de um harness de IA para escritórios de engenharia, começando por **projetos de instalações**. A cada semana:
