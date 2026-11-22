@@ -3,7 +3,7 @@
 *Versão 1.0, novembro de 2026. Use, adapte e compartilhe (CC BY 4.0). O esqueleto pronto está na pasta [`esqueleto-harness/`](esqueleto-harness/).*
 
 ## O que é um harness
-Em inglês, *harness* é o arreio: o que liga a força do cavalo à carroça, na direção certa. Em IA, é **tudo o que fica em volta do modelo** para ele trabalhar do seu jeito, com segurança e com controle: o seu padrão escrito, as tarefas que ele pode fazer, onde ele para e pede a sua decisão, o que fica registrado e como ele aprende com as suas correções.
+*Harness*, em IA, é **tudo o que fica em volta do modelo** para ele trabalhar do seu jeito, com segurança e com controle: o seu padrão escrito, as tarefas que ele pode fazer, onde ele para e pede a sua decisão, o que fica registrado e como ele aprende com as suas correções.
 
 O modelo de IA (ChatGPT, Claude, Gemini) é igual para todo mundo. **O harness é o que é seu.** E é ele que separa quem ganhou com IA de quem pagou caro.
 
